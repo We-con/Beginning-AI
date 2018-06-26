@@ -14,3 +14,15 @@ AI 스터디를 진행하면서 찾아본 내용들을 정리하고 있습니다
 - 무조건 이유불문 불참할 경우 2만원 벌금 
 - 7월 4일은 각자의 개인일정으로 일정을 차후 조율
 
+### 1주차, 시즌 1 - 딥러닝의 기본
+- 1. 수업의 개요
+- 2. 머신러닝의 개념과 용어
+- 3. Linear Regression의 개념
+- 4. Linear Regression cost함수 최소화 
+- 5. 여러개의 입력의 Linear Regression
+- 6. Logistic (Regression) Classification
+- 7. Softmax Regression (Multinomial Logistic Regression)
+- 8. ML의 실용과 몇가지 팁
+
+### Google ML Study
+- 계획중...
