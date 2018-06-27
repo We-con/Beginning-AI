@@ -21,14 +21,18 @@ AI 스터디를 진행하면서 찾아본 내용들을 정리하고 있습니다
 4. Linear Regression cost함수 최소화 
 5. 여러개의 입력의 Linear Regression
 
-### 2주차, 시즌 1- 딥러닝의 기본
+### 2주차, 시즌 1 - 딥러닝의 기본
 - ML Lab1
 - ML Lab2
 - ML Lab3
 - ML Lab4-1
+- ML Lab4-2
+
+### 3주차, 시즌 1 - 딥러닝의 기본
 6. Logistic (Regression) Classification
 7. Softmax Regression (Multinomial Logistic Regression)
-8. ML의 실용과 몇가지 팁
+8. ML의 실용과 몇 가지 팁
+
 
 ### 이슈정리 
 
