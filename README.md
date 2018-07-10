@@ -1,9 +1,8 @@
 # Beginning-AI
 AI 스터디를 진행하면서 찾아본 내용들을 정리하고 있습니다.
 
-
 ### Planning
-- 6월 20일 ~ 7월 18일, 매주 수요일 오전 11시
+- 6월 20일 ~ 7월 18일, 매주 수요일 오전 11시 (5주간 진행)
 
 ### Study Content 
 - [모두의 딥러닝](https://hunkim.github.io/ml/)
@@ -43,9 +42,18 @@ AI 스터디를 진행하면서 찾아본 내용들을 정리하고 있습니다
 13. Recurrent Neural Network
 
 
+### 용어 정리 
+
+##### csv 파일
+CSV(영어: comma-separated values)는 몇 가지 필드를 쉼표(,)로 구분한 텍스트 데이터 및 텍스트 파일이다. 
+확장자는 .csv이며 MIME 형식은 text/csv이다. comma-separated variables라고도 한다.
+
 ### 이슈정리 
 
-##### gpu를 지원하는 OS X의 경우 추가 플러그인 설치를 해야합니다. 
+##### gpu를 지원하는 OS X의 경우 추가 플러그인 설치를 해야합니다.
+
+##### softmax_cross_entropy_with_logits 함수는 deprecated 됬습니다. 
+이에 대한 내용흔 공식 문서를 참고하여 다른 함수를 사용하시면 되겠습니다.
 
 ### Google ML Study
 - 계획중...
