@@ -33,6 +33,15 @@ AI 스터디를 진행하면서 찾아본 내용들을 정리하고 있습니다
 7. Softmax Regression (Multinomial Logistic Regression)
 8. ML의 실용과 몇 가지 팁
 
+### 4주차, 시즌 1 - 딥러닝 기본 
+9. 딥러닝의 기본 개념과, 문제, 그리고 해결
+
+### 5주차, 시즌 1 - 딥러닝 기본 
+10. Neural Network 1
+11. Neural Network 2
+12. Convolutional Neural Networks
+13. Recurrent Neural Network
+
 
 ### 이슈정리 
 
